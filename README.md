@@ -20,3 +20,6 @@
 
 시각화 도구 제안 : 워드 클라우드, 바 그래프 등
 newsdata : https://drive.google.com/file/d/1lo7gv1q7azgdl9r3m4tP66w7HTUocKQY/view?usp=sharing
+
+
+https://drive.google.com/file/d/1GCiyslVjYHFgECAtZuwb5iTT_OtlVVRp/view?usp=sharing
